@@ -1,7 +1,21 @@
-# Pad
+# RadPad
+An awesome macropad with a display and two slide potentiometers that runs off a Raspberry Pi Pico. 
+<br>
+I created this simply because I had a couple of unused switches lying around and I wanted to use them. I also hoped to gain more KiCad experience from this project. 
+
+<img width="1166" height="590" alt="image" src="https://github.com/user-attachments/assets/5efdeabb-5986-422e-bd33-d2091ece68a8" />
 
 
+# CAD 
+<img width="1225" height="649" alt="image" src="https://github.com/user-attachments/assets/06de1b9c-fb91-4702-a6d8-fa0be6cdff0c" />
+<img width="703" height="618" alt="image" src="https://github.com/user-attachments/assets/dbc830ce-b2de-4d63-a3c8-dcc5e70f8ead" />
 
+
+# Schematic
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/50d87122-e3e5-48dc-ad5b-0c4a5ae8c508" />
+
+# PCB
+<img width="674" height="645" alt="image" src="https://github.com/user-attachments/assets/28d32880-5e74-4bf7-ac31-fb46efbb4bb5" />
 
 
 # BOM
