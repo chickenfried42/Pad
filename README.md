@@ -5,6 +5,7 @@ I created this simply because I had a couple of unused switches lying around and
 
 <img width="1166" height="590" alt="image" src="https://github.com/user-attachments/assets/5efdeabb-5986-422e-bd33-d2091ece68a8" />
 
+I have no clue how to get each component on the 3d model, sorry
 
 # CAD 
 <img width="1225" height="649" alt="image" src="https://github.com/user-attachments/assets/06de1b9c-fb91-4702-a6d8-fa0be6cdff0c" />
