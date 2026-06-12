@@ -21,6 +21,10 @@ I created this simply because I had a couple of unused switches lying around and
 # PCB
 <img width="674" height="645" alt="image" src="https://github.com/user-attachments/assets/28d32880-5e74-4bf7-ac31-fb46efbb4bb5" />
 
+<img width="1575" height="867" alt="image" src="https://github.com/user-attachments/assets/59b9033c-5912-4197-ad1f-23f46a5a69de" />
+
+<img width="1551" height="757" alt="image" src="https://github.com/user-attachments/assets/388b11fc-6fff-437a-bbd2-8e6020a76e4b" />
+
 
 # BOM
 | Name                           | Quantity | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
