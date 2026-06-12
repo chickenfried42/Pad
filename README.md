@@ -3,9 +3,12 @@ An awesome macropad with a display and two slide potentiometers that runs off a 
 <br>
 I created this simply because I had a couple of unused switches lying around and I wanted to use them. I also hoped to gain more KiCad experience from this project. Another reason was that my stupid volume keys don't work, so this will hopefully remedy that.
 
-<img width="1166" height="590" alt="image" src="https://github.com/user-attachments/assets/5efdeabb-5986-422e-bd33-d2091ece68a8" />
+<img width="1377" height="689" alt="image" src="https://github.com/user-attachments/assets/5956a6ff-dbb1-436f-9d15-1383c1ba179f" />
+<img width="1284" height="649" alt="image" src="https://github.com/user-attachments/assets/f2117ba0-f7cd-4cc2-995f-d3b48ea1f2f0" />
 
-I have no clue how to get each component on the 3d model, sorry
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e0da01cf-21fa-4134-a9eb-555c84844d49" />
+<img width="1585" height="488" alt="image" src="https://github.com/user-attachments/assets/e019329a-69b5-41be-a5bc-2d6697c854a3" />
+
 
 # CAD 
 <img width="1225" height="649" alt="image" src="https://github.com/user-attachments/assets/06de1b9c-fb91-4702-a6d8-fa0be6cdff0c" />
